@@ -1,0 +1,15 @@
+LeeCode  力扣题
+
+GOF  软件设计模式
+    设计原则
+        OCP（OpenClosed Principle） 开闭原则
+        LSP（Liskov Substitution Principle） 李氏替换
+        DIP（Dependence Inversion Principle） 依赖倒转
+        ISP（）接口隔离
+        LKP 迪米特
+
+    设计模式
+        创建型模式
+            Singleton 单例模式：单例模式只允许创建一个对象。常用如Web中的配置对象，数据库的连接池等
+            Prototype 原型模式：通过一个已有的对象，对其进行克隆，实现多个对象的实现。常用对象之间相同或相似，且对象创建比较麻烦，克隆简单
+
