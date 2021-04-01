@@ -1,4 +1,4 @@
-package GOF.设计模式.结构型模式.Adapter;
+package GOF.设计模式.结构型模式.adapter;
 
 public class main {
     public static void main(String args[]){

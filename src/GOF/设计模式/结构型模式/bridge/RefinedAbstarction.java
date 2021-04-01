@@ -1,4 +1,4 @@
-package GOF.设计模式.结构型模式.Bridge;
+package GOF.设计模式.结构型模式.bridge;
 
 public class RefinedAbstarction extends Abstraction {
     protected RefinedAbstarction(Implementor implementor){

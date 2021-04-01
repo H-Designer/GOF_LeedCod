@@ -1,4 +1,4 @@
-package GOF.设计模式.结构型模式.Proxy;
+package GOF.设计模式.结构型模式.proxy;
 
 public class ProxtTest {
     public static void main(String args[]){

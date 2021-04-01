@@ -1,6 +1,6 @@
-package GOF.设计模式.结构型模式.Bridge;
+package GOF.设计模式.结构型模式.bridge;
 
-public class main {
+public class  main {
     public static void main(String args[]){
         Implementor implementor = new ConcreteImplementorA();
         Abstraction abstraction = new RefinedAbstarction(implementor);

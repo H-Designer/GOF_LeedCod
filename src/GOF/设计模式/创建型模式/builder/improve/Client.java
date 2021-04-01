@@ -4,10 +4,10 @@ public class Client {
     public static void main(String args[]){
         CommonHouse commonHouse = new CommonHouse();
         HouseDirector houseDirector = new HouseDirector(commonHouse);
-        houseDirector.constructHouse();
+        House house = houseDirector.constructHouse();
         System.out.println("----------");
         HighBuilding highBuilding = new HighBuilding();
         houseDirector = new HouseDirector(highBuilding);
-        houseDirector.constructHouse();
+        house = houseDirector.constructHouse();
     }
 }
