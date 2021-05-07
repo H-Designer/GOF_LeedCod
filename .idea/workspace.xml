@@ -272,7 +272,7 @@
       <workItem from="1614577468146" duration="1331000" />
       <workItem from="1616134075581" duration="29999000" />
       <workItem from="1617241982483" duration="810000" />
-      <workItem from="1620268175360" duration="5155000" />
+      <workItem from="1620268175360" duration="11914000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式补充">
       <created>1616136266592</created>
@@ -302,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620283685748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="设计模式&amp;&amp;力扣">
+      <created>1620284242583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620284242583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
