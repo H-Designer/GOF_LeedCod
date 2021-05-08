@@ -146,7 +146,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -272,7 +272,7 @@
       <workItem from="1614577468146" duration="1331000" />
       <workItem from="1616134075581" duration="29999000" />
       <workItem from="1617241982483" duration="810000" />
-      <workItem from="1620268175360" duration="11914000" />
+      <workItem from="1620268175360" duration="16222000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式补充">
       <created>1616136266592</created>
@@ -309,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620284242583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="力扣11、1486&#10;2021-5-7">
+      <created>1620353646468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620353646468</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -396,11 +403,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="单例模式补充" />
     <MESSAGE value="设计模式" />
     <MESSAGE value="设计模式&amp;&amp;力扣" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式&amp;&amp;力扣" />
+    <MESSAGE value="力扣11、1486&#10;2021-5-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="力扣11、1486&#10;2021-5-7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GOF/设计模式/创建型模式/protoType/extend/Circle.java">
