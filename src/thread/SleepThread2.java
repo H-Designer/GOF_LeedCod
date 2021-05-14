@@ -3,7 +3,6 @@ package thread;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-//模拟倒计时
 public class SleepThread2 {
     public static void main(String[] args) throws InterruptedException {
 //        tenDown();

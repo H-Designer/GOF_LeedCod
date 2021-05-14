@@ -1,8 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9be48785-7964-4a05-b22e-6131022ef945" name="Default Changelist" comment="">
+    <list default="true" id="9be48785-7964-4a05-b22e-6131022ef945" name="Default Changelist" comment="2021-5-8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/DIPmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/DIPmain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/DIP/Shop002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/CountImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/CountImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/InputImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/InputImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/PrintImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/PrintImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/Studentmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/ISP/Studentmain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Agentmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Agentmain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Fans.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Fans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LKP/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/BrownKiwi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/BrownKiwi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/LSPmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/LSPmain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Swallow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/LSP/Swallow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subjectmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计原则/OCP/Subjectmain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/AbsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/AbsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/BeijingFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/BeijingFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/CheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/GreekPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/GreekPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/LundunFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/LundunFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/OrderPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/OrderPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/abstractFactory/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/ConcreteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/ConcreteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/CommonHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/CommonHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HighBuilding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HighBuilding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/House.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HouseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HouseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HouseDirector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/builder/improve/HouseDirector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/PrototypeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/PrototypeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/Realizetype.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/Realizetype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/PrototypeManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/PrototypeManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/protoType/extend/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/CheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/GreekPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/GreekPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/OrderPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/OrderPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/SimpleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/simpleFactory/SimpleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/DoubleCheckSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/DoubleCheckSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/HungrySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/HungrySingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/LazySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/LazySingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton$SingletonInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton$SingletonInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/创建型模式/singleton/StaticSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/ClassAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/ClassAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/IVoltage5V.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/IVoltage5V.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/Voltage220V.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/Voltage220V.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/VoltageAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/classadapter/VoltageAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/IVoltage5V.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/IVoltage5V.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/Voltage220V.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/Voltage220V.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/VoltageAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/adapter/objectadapter/VoltageAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/ConcreteImplementorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/ConcreteImplementorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/Implementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/Implementor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/RefinedAbstarction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/RefinedAbstarction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Brand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/FoledPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/FoledPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/UPRightPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/UPRightPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/VIVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/VIVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/XiaoMi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/improve/XiaoMi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/bridge/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Chocolate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Chocolate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Drink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Drink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Espresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Espresso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/LongBlack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/LongBlack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Milk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/Milk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/ShortBlack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/decorator/ShortBlack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/ProxtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/ProxtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/GOF/设计模式/结构型模式/proxy/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/IsHuiWen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/IsHuiWen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/KuaiPai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/KuaiPai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode002$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode002$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode004$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode004$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode004.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode004.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode007.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/LeeCode007.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/LeeCode/TurnNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/LeeCode/TurnNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/readme" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AounHui/thread/SleepThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AounHui/thread/SleepThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/SleepThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/SleepThread2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,17 +254,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="GOF.设计模式.结构型模式.decorator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\AounHui\src\lib" />
       <recent name="C:\workspace\AounHui\src\GOF\设计模式\结构型模式\adapter\objectadapter" />
       <recent name="C:\workspace\AounHui\src\GOF\设计模式\创建型模式\abstractFactory" />
     </key>
@@ -160,13 +278,13 @@
       <recent name="C:\workspace\AounHui\src\GOF\设计模式\创建型模式\Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeeCode002">
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GOF.设计模式.结构型模式.bridge.improve.Client" />
+  <component name="RunManager" selected="Application.LeeCode729">
+    <configuration name="ArrayListNotSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ArrayListNotSafe" />
       <module name="AounHui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GOF.设计模式.结构型模式.bridge.improve.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GOF.设计模式.结构型模式.decorator.Client" />
+    <configuration name="CopyOnWriteArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="juc.CopyOnWriteArr" />
       <module name="AounHui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GOF.设计模式.结构型模式.decorator.*" />
+          <option name="PATTERN" value="juc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeeCode002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeeCode.LeeCode002" />
+    <configuration name="LeeCode729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.LeeCode729" />
       <module name="AounHui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeeCode.*" />
+          <option name="PATTERN" value="leecode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GOF.设计模式.结构型模式.adapter.objectadapter.Phone" />
+    <configuration name="LockThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.LockThread" />
       <module name="AounHui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GOF.设计模式.结构型模式.adapter.objectadapter.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GOF.设计模式.结构型模式.adapter.classadapter.Phone" />
+    <configuration name="Makeup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Makeup" />
       <module name="AounHui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GOF.设计模式.结构型模式.adapter.classadapter.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,24 +344,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeeCode002" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Phone (1)" />
-        <item itemvalue="Application.Phone" />
+        <item itemvalue="Application.LeeCode729" />
+        <item itemvalue="Application.LockThread" />
+        <item itemvalue="Application.Makeup" />
+        <item itemvalue="Application.CopyOnWriteArr" />
+        <item itemvalue="Application.ArrayListNotSafe" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +392,8 @@
       <workItem from="1614577468146" duration="1331000" />
       <workItem from="1616134075581" duration="29999000" />
       <workItem from="1617241982483" duration="810000" />
-      <workItem from="1620268175360" duration="16222000" />
+      <workItem from="1620268175360" duration="65644000" />
+      <workItem from="1620866190124" duration="28692000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式补充">
       <created>1616136266592</created>
@@ -316,7 +437,42 @@
       <option name="project" value="LOCAL" />
       <updated>1620353646468</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5-7">
+      <created>1620433935482</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620433935482</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2021-5-8">
+      <created>1620440064171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620440064171</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2021-5-10&#10;LeeCode17">
+      <created>1620615165895</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620615165895</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2021-5-12&#10;Leecode &amp;&amp; JUC(Thread)">
+      <created>1620801485165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620801485165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2021-5-13&#10;leecode&amp;&amp;thread">
+      <created>1620896587761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620896587761</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -413,13 +569,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="单例模式补充" />
     <MESSAGE value="设计模式" />
     <MESSAGE value="设计模式&amp;&amp;力扣" />
     <MESSAGE value="力扣11、1486&#10;2021-5-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="力扣11、1486&#10;2021-5-7" />
+    <MESSAGE value="5-7" />
+    <MESSAGE value="2021-5-8" />
+    <MESSAGE value="2021-5-10&#10;LeeCode17" />
+    <MESSAGE value="2021-5-12&#10;Leecode &amp;&amp; JUC(Thread)" />
+    <MESSAGE value="2021-5-13&#10;leecode&amp;&amp;thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-5-13&#10;leecode&amp;&amp;thread" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GOF/设计模式/创建型模式/protoType/extend/Circle.java">
